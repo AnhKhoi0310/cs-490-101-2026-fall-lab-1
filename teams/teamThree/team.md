@@ -5,11 +5,10 @@
 teamThree
 
 ## Project Manager
-
-AnhKhoi0310
+Khoi Tran (AnhKhoi0310)
 
 ## Team Members
 
-- AnhKhoi0310
-- ds2327
-- JustinVill1
+- Khoi Tran (AnhKhoi0310)
+- Diego Salinas (ds2327)
+- Justin Villamizar (JustinVill1)
