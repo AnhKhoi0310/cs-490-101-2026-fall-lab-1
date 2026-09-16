@@ -6,7 +6,7 @@ Justin Villanizar
 
 ## Favorite Technology
 
-ps5
+PS5
 
 ## Non-technical Hobby
 
