@@ -11,9 +11,9 @@ PS5
 ## Non-technical Hobby
 
 - playing basketball
-- gym
+- going to the gym
 - hiking
 
 ## Favorite Cartoon
 
-teen titans go
+Teen Titans Go
