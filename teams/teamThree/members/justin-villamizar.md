@@ -2,7 +2,7 @@
 
 ## My Name
 
-Justin Villanizar
+Justin Villamizar
 
 ## Favorite Technology
 
